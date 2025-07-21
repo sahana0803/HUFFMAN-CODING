@@ -20,8 +20,7 @@ print the characters and its huffmancode
  
 ## Program:
 ```
-Developed By: RISHI M
-Register Number:212222230119
+Developed By: SAHANA AS
 ```
 ``` Python
 # expt-11-huffman coding
